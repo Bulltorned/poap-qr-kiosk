@@ -1,8 +1,11 @@
 {
   "projects": {
     "legacy": "poap-qr-kiosk",
-    "default": "qr-kiosk-dev",
-    "development": "qr-kiosk-dev",
-    "production": "qr-kiosk"
-  }
+    "default": "poap-kiosk",
+    "development": "poap-kiosk",
+    "production": "qr-kiosk",
+    "staging": "poap-kiosk"
+  },
+  "targets": {},
+  "etags": {}
 }

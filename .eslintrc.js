@@ -20,7 +20,7 @@ module.exports = {
         "prefer-arrow-callback": 1,
         "no-mixed-spaces-and-tabs": 1,
         "react/react-in-jsx-scope": 0, // CRA globally imports it
-        "no-unused-vars": [ 1, { vars: 'all', args: 'none' } ], // All variables, no function arguments
+        "no-unused-vars": "off",
 
         // React specific
         "react/prop-types": 0,
